@@ -1,0 +1,9 @@
+C:\Users\macie\source\repos\caesar_shift\caesar_shift\bin\Debug\caesar_shift.exe.config
+C:\Users\macie\source\repos\caesar_shift\caesar_shift\bin\Debug\caesar_shift.exe
+C:\Users\macie\source\repos\caesar_shift\caesar_shift\bin\Debug\caesar_shift.pdb
+C:\Users\macie\source\repos\caesar_shift\caesar_shift\obj\Debug\caesar_shift.csprojAssemblyReference.cache
+C:\Users\macie\source\repos\caesar_shift\caesar_shift\obj\Debug\caesar_shift.Form1.resources
+C:\Users\macie\source\repos\caesar_shift\caesar_shift\obj\Debug\caesar_shift.Properties.Resources.resources
+C:\Users\macie\source\repos\caesar_shift\caesar_shift\obj\Debug\caesar_shift.csproj.GenerateResource.cache
+C:\Users\macie\source\repos\caesar_shift\caesar_shift\obj\Debug\caesar_shift.exe
+C:\Users\macie\source\repos\caesar_shift\caesar_shift\obj\Debug\caesar_shift.pdb
